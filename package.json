@@ -1,0 +1,15 @@
+{
+  "name": "guiapergunta",
+  "version": "1.0.0",
+  "description": "Um aplataforma de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3"
+  }
+}
